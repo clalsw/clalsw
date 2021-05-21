@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=clalsw)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=clalsw&size=4&theme=dark)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=clalsw)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=clalsw)
