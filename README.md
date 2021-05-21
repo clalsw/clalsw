@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=clalsw)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=clalsw)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=clalsw)
 <!--
 **clalsw/clalsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
